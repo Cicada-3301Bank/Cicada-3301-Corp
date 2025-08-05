@@ -31,14 +31,15 @@
 + Clear Disclaimers: All services labeled as "consulting" not legal representation
 - Restrictions: No litigation, court appearances, or binding legal opinions
 
----------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 📑 Cicada 3301 Corporations - Key Documents
 
 ## For Your Review and Action
 
 Below are the essential documents for our partnership. **Please follow the instructions for each**:
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 1. Client Service Agreement Template  
 **Purpose**: Outlines terms for property law and real estate development services.  
@@ -52,7 +53,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 - 50% deposit required before work begins (bank details in Section 4 below)  
 - Digital signatures accepted  
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Service Disclaimer  
 **Purpose**: Explains the advisory nature of our services.  
@@ -70,125 +71,151 @@ Below are the essential documents for our partnership. **Please follow the instr
 ### 3. VAT Registration Guide  
 *Currently under revision - will be shared when updated*  
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏦 Payment Instructions  
 **For deposits/balances**:  
 --------
+## 📄 How to Download Your Agreement
+
+### Option 1: Automated Download
+[Try Automatic Download](https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/templates/Cicada_Client_Service_Agreement_Template.docx)  
+*(If nothing happens, use Option 2 below)*
+
+### Option 2: Manual Copy-Paste
+1. **Copy this URL**:
+https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/templates/Cicada_Client_Service_Agreement_Template.docx
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. **Paste it into your browser's address bar**
+3. **Press Enter** - the document should download
+
+### Need Help? Contact Support:
+📞 **Phone**: +27 68 131 1096  
+📧 **Email**: [cicada3301legal@proton.me](mailto:cicada3301legal@proton.me)  
+*(Available Mon-Fri, 9AM-5PM CAT)*
+
+> **Tip**: If the document won't open, try:
+> - Using Microsoft Word or [LibreOffice](https://www.libreoffice.org/)
+> - Right-click → "Save Link As" (Chrome/Firefox)
+> - Long-press → "Download" (Mobile)
+
 
 # Cicada 3301 Corporations - Client Services
 
-![Cicada 3301 Logo](https://i.imgur.com/N5BKdY2.png)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 2. Service Disclaimer
 
---------
+### ⚖️ Advisory Nature of Services
+**Cicada 3301 Corporations (Pty) Ltd** provides *consultation services only*. By engaging our services, you acknowledge:
 
-## 📑 Client Documents
+```diff
++ What We Provide:
+- Legal document templates and drafting guidance
+- Property law strategy consultation
+- Real estate development planning
 
-### Service Agreement Template
-[⬇️ Download Agreement (Word, 245KB)](https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/templates/Cicada_Client_Service_Agreement_Template.docx)
+- What We Don't Provide:
++ Court representation or litigation services
++ Legally binding opinions
++ Attorney-client privileged advice
+```-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Instructions**:
-1. Click the button above
-2. If download doesn't start automatically:
-   - Right-click → "Save Link As"
-   - Save to your preferred location
-3. Open in Microsoft Word or compatible software
+📜 Key Limitations  
+Not a Law Firm:  
+Our services do not constitute legal representation.
 
+Supplemental Advice Required:  
+Clients must obtain independent legal counsel for:
+- Court proceedings  
+- Contract enforcement  
+- Regulatory compliance  
 
+No Liability:  
+We are not responsible for outcomes resulting from client implementation of our advice.
 
+📩 Confirmation of Understanding  
+Clients must email the following to cicada3301legal@proton.me:  
 
----------
+I confirm that I understand Cicada 3301 Corporations provides advisory services only,  
+and that I will seek independent legal counsel where required.  
 
-## 📄 Client Service Agreement
+[Client Name]  
+[Date]  
 
-Our standard service agreement template is available for download below. This document outlines terms for property law consultancy and real estate development services.
-
-### 📥 Download Options
-1. **GitHub Download**  
-   [client_service_agreement_template.docx](/templates/client_service_agreement.docx) *(Right-click → "Save Link As")*
-
-2. **Email Request**  
-   Send request to [cicada3301legal@proton.me](mailto:cicada3301legal@proton.me) with subject "Agreement Template Request"
-
----
-
-## 💳 Payment Instructions
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💳 Payment Instructions  
 **Bank Details for Electronic Transfers:**
 
+Bank: First National Bank (FNB)  
+Account Type: Gold Business Account  
+Account Name: Siboza Mpange and Cicada 3301 (Pty) Ltd  
+Account Number: 63166718826  
+Branch Code: 210651 (Greenpoint Branch)  
+SWIFT Code: FIRNZAJJ  
+Reference: [Client ID] + Invoice Number  
 
+**Payment Process:**  
+1. Complete and sign service agreement  
+2. Pay 50% deposit to above account  
+3. Email proof of payment to cicada3301legal@proton.me
+4. We confirm receipt within 24 hours  
 
----------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Biography and Project History of:
+## ✍️ Agreement Template Preview  
+*(Key sections shown below - full document available for download)*
 
-# Dr. Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)
+### 1. Parties  
+**Service Provider:**  
+Siboza Mpange and Cicada 3301 (Pty) Ltd T/A Cicada 3301 Corporations  
+1 Beach Road, Waterfront, Cape Town, 8001  
+VAT No: [Your VAT Number]  
 
-**Property Law Consultant | Real Estate Developer | Legal Office Administrator**  
-**Founder, AfriHebrew Resistance | Democratic Alliance Member (Ward 115)**  
-**Cicada 3301 Corporations (Pty) Ltd (T/A)**  
+**Client:**  
+Full Name: _____________________________  
+Physical Address: _______________________  
+_______________________  
+Postal Code: _______  
+Email: ________________________________  
+Phone: ________________________________  
+
+### 2. Services & Fees  
+| Service | Description | Fee |
+|---------|-------------|-----|
+| Property Law Consultation | Lease reviews, title analysis | R1,200/hour |
+| Contract Drafting | Rental/NDA agreements | R2,500/document |
+| *[View full table in template]* | | |
+
+### 3. Signatures  
+**Client Signature:**  
+_________________________  
+Date: _____/_____/2025  
+
+**For Cicada 3301 Corporations:**  
+_________________________  
+Dr. Kanny Siboza, Director  
+Date: _____/_____/2025  
+
+*Note: This template requires Microsoft Word or compatible software.*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ℹ️ Need Help?  
+Contact our legal team:  
+📞 +27 68 131 1096  
+📧 cicada3301legal@proton.me  
+*Response within 48 hours*  
+
+📧 *Always email POP to*: cicada3301legal@proton.me  
 
 ---
 
-## 📜 Biography
-```diff
-+ Born 1986 in Barberton, Mpumalanga to Mozambican parents
-+ Matsulu B upbringing | Sukumani Primary & Tikhontele Secondary (Deputy President 2002)
-+ Youth Parliament delegate under Hon. Naledi Pandor (2002)
+## ❓ Need Help?  
+Contact our team:  
+📞 +27 68 131 1096  
+📧 cicada3301corp@proton.me  
+*Response within 24 business hours*  
 
-Spiritual Journey:
-
-"The Lion of Judah's Awakener"
-
-Founded AfriHebrew Resistance after synagogue rejections in Cape Town
-
-Revelation at Bloubergstrand (Exodus 3:2, Zechariah 2:11)
-
-20+ years Torah activism for Black Zion consciousness
-
-Political Engagement:
-
-Democratic Alliance Member (Ward 115)
-
-Focus: Property justice, ethical governance, sustainable urban development
-
-💼 Work Experience
-
-Role	Organization	Key Contributions
-
-Founder	Cicada 3301 Corporations	Property law consultancy & real estate development
-Financial Advisor	Liberty Holdings Group	Client portfolio management
-Project Manager	Direkane Construction	Civil engineering projects (pre-liquidation)
-Technician	Bosch	Mechanical engineering systems
-Fuel Logistics	Shell Petroleum	Mobile distribution networks
-Entrepreneurial Ventures:
-
-⚠️ Learning experiences from failed startups in:
-
-AI cybersecurity (Algorithm Codex)
-
-Record label
-
-Software security
-
-🚀 Current Projects
-
-Cicada 3301 Corporations
-
-Property law consultancy (Pty Ltd registered)
-
-Real estate development strategies
-
-Hydrogen Aerospace R&D
-
-Next-gen propulsion systems (Early stage)
-
-AfriHebrew Resistance
-
-Pan-African Torah revival movement
-
-🧠 Philosophy
-"עַם זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ"
-"The people I formed for Myself will declare My praise." — Isaiah 43:21
-
--------
-
+> *"Clear agreements build strong partnerships."*  
+> **– Kanny Siboza, Director**
