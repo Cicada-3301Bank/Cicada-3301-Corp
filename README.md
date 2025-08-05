@@ -80,7 +80,24 @@ Below are the essential documents for our partnership. **Please follow the instr
 
 ![Cicada 3301 Logo](https://i.imgur.com/N5BKdY2.png)
 
+--------
 
+## 📑 Client Documents
+
+### Service Agreement Template
+[![Download Word Document](https://img.shields.io/badge/Download-Word_Document-0078D4?style=for-the-badge&logo=microsoft-word)](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/templates/Cicada_Client_Service_Agreement_Template.docx)
+
+**Instructions**:
+1. Click the button above
+2. If download doesn't start automatically:
+   - Right-click → "Save Link As"
+   - Save to your preferred location
+3. Open in Microsoft Word or compatible software
+
+
+
+
+---------
 
 ## 📄 Client Service Agreement
 
