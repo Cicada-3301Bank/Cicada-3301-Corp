@@ -219,3 +219,78 @@ Contact our team:
 
 > *"Clear agreements build strong partnerships."*  
 > **– Kanny Siboza, Director**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Biography and Project History of Dr. Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)
+
+**Property Law Consultant | Real Estate Developer | Legal Office Administrator**  
+**Founder, AfriHebrew Resistance | Democratic Alliance Member (Ward 115)**  
+**Cicada 3301 Corporations (Pty) Ltd (T/A)**  
+
+---
+
+## 📜 Biography
+
+```diff
++ Born 1986 in Barberton, Mpumalanga to Mozambican parents
++ Matsulu B upbringing | Sukumani Primary & Tikhontele Secondary (Deputy President 2002)
++ Youth Parliament delegate under Hon. Naledi Pandor (2002)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spiritual Journey
+
+"The Lion of Judah's Awakener"
+
+Founded AfriHebrew Resistance after synagogue rejections in Cape Town
+
+Revelation at Bloubergstrand (Exodus 3:2, Zechariah 2:11)
+
+20+ years Torah activism for Black Zion consciousness
+
+Political Engagement
+
+Democratic Alliance Member (Ward 115)
+
+Focus: Property justice, ethical governance, sustainable urban development
+
+💼 Work Experience
+Role	Organization	Key Contributions
+Founder	Cicada 3301 Corporations	Property law consultancy & real estate development
+Financial Advisor	Liberty Holdings Group	Client portfolio management
+Project Manager	Direkane Construction	Civil engineering projects (pre-liquidation)
+Technician	Bosch	Mechanical engineering systems
+Fuel Logistics	Shell Petroleum	Mobile distribution networks
+Entrepreneurial Ventures
+⚠️ Learning experiences from failed startups in:
+
+AI cybersecurity (Algorithm Codex)
+
+Record label
+
+Software security
+
+🚀 Current Projects
+Cicada 3301 Corporations
+
+Property law consultancy (Pty Ltd registered)
+
+Real estate development strategies
+
+Hydrogen Aerospace R&D
+
+Next-gen propulsion systems (Early stage)
+
+AfriHebrew Resistance
+
+Pan-African Torah revival movement
+
+🧠 Philosophy
+
+Africa is Zion
+
+Torah as Constitution
+
+Justice as Weapon
+
+"עַם זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ"
+"The people I formed for Myself will declare My praise." — Isaiah 43:21
