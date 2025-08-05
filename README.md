@@ -78,7 +78,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 
 # Cicada 3301 Corporations - Client Services
 
-![Cicada 3301 Logo](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/blob/70d2a824ae0ed75e48ad2c9ae3f63b7c7ad61bae/Cicada%203301%20Corp%20Logo%20(2).png) *(Upload your logo to replace this placeholder)*
+![Cicada 3301 Logo](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/blob/main/Cicada%203301%20Corp%20Logo%20(2).png?raw=true) 
 
 ## 📄 Client Service Agreement
 
