@@ -1,37 +1,64 @@
-# Cicada 3301 Corporations (Pty) Ltd
+# CICADA 3301 CORPORATIONS
+*"We protect your property, your wealth, and your identity — in the real world and online."*  
+*"Building Legal Sanctuaries, Securing Wealth, Protecting Data"*
 
-**Property Law & Real Estate Development Consultancy**  
-📍 *1 Beach Road, Waterfront, Cape Town, 8001*  
-📞 +27 68 131 1096 | ✉️ cicada3301legal@proton.me | ✉️ℹ️ cicada3301corp@proton.me 
-
----
+## About Us
+Cicada 3301 Corporations (T/A) is a South African registered enterprise (Enterprise No: 2025/076455/07) operating at the intersection of 
+**Property Law, Real Estate Development, Offshore Wealth Structuring, and Cybersecurity**.
 
 ## 📌 Business Overview
 **Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd 
 **Enterprise Number:** 2025 / 076455 / 07
 **Trade Name:** Cicada 3301 Corporations  
-**Owner:**Dr. Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)  (Legal Associate & Founder)  
-**Specialization:** Hybrid legal-tech consultancy in property law and urban development  
+**Specialization:** Hybrid legal-tech consultancy in property law and urban development, combining legal strategy, 
+asset protection, and technology to serve high-net-worth individuals and global investors.
 
----
+Founded by **Dr. Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)(also known as Kanny Siboza aka Mercurius Zeus)**
+
+Dr Kanny Siboza is a specialist on: 
+Property Law Consultant | Real Estate Developer | Offshore Trusts Advisor | Cybersecurity & Data Protection Specialist | Wealth Structuring for High-Net-Worth Clients
+
+Our firm delivers discreet, high-impact services for high-net-worth clients, including:
+
+- **Property Law & compliance**
+- **Real Estate Development Advisory**
+- **Offshore trust & shell company structuring**
+- **Cybersecurity & Data Protection for property transactions**
+
+We operate virtually and globally, ensuring your portfolio and personal data remain secure — whether your assets are in **Cape Town, Dubai, or offshore trusts in Seychelles**.
+
 
 ## 🏛 Core Services
+
 | Service Area                | Description                                                                 | Compliance Note                          |
 |-----------------------------|-----------------------------------------------------------------------------|------------------------------------------|
-| **Property Law Advisory**   | Lease reviews, title deed analysis, land use strategy                      | No court representation                 |
-| **Document Drafting**       | Contracts, NDAs, construction tender documents                             | Not legally binding advice              |
-| **Real Estate Innovation**  | AI architectural patents, hydrogen infrastructure planning                 | Partners with patent attorneys          |
-| **Agricultural Development**| Wine harvest land projects for youth employment                            | Advisory role only                      |
+| **Property Law Advisory**   | Lease reviews, title deed analysis, land use strategy                      | No court representation                   |
+| **Document Drafting**       | Contracts, NDAs, construction tender documents                             | Not legally binding advice                |
+| **Real Estate Innovation**  | AI architectural patents, hydrogen infrastructure planning                 | Partners with patent attorneys            |
+| **Agricultural Development**| Wine harvest land projects for youth employment                            | Advisory role only                        |
+| **Offshore Wealth Structuring** | Setup of trusts, shell corporations, and title anonymization            | Requires client compliance attestation   |
+| **Cybersecurity for Property** | Secure portals, blockchain-based title verification, encrypted document exchange | CyberShield Add-On option        |
 
 ---
 
-## ⚖️ Legal Compliance Framework
-```diff
-+ Smart Partnerships: Collaborate with licensed attorneys for regulated work
-+ Clear Disclaimers: All services labeled as "consulting" not legal representation
-- Restrictions: No litigation, court appearances, or binding legal opinions
+## Membership Tiers
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tier | Annual Fee | Features |
+|------|-----------|----------|
+| **Silver** | R15,000 | Basic shell corp setup, 2 property consultations/year |
+| **Gold** | R45,000 | Offshore trust integration, title anonymization |
+| **Platinum** | R90,000 | AI-driven tax strategies, blockchain title verification |
+| **CyberShield Add-On** | R25,000 | Secure portal, encrypted document exchange |
+
+---
+
+## Contact
+
+📞 **+27 68 131 1096**  
+📧 **cicada3301legal@proton.me** | **cicada3301corp@proton.me**  
+🌍 **Cape Town, South Africa | 📍 *Waterfront Watershed 17 Dock Road Victoria and Alfred, Cape Town, Western Cape, 8001* **  
+
+---
 
 # 📑 Cicada 3301 Corporations - Key Documents
 
@@ -40,6 +67,8 @@
 Below are the essential documents for our partnership. **Please follow the instructions for each**:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Cicada 3301 Corporations - Client Services On Property Law [Note that other services such as offshore corporations services is still in progress!]
 
 ### 1. Client Service Agreement Template  
 **Purpose**: Outlines terms for property law and real estate development services.  
@@ -51,7 +80,8 @@ Below are the essential documents for our partnership. **Please follow the instr
 
 📌 *Note*:  
 - 50% deposit required before work begins (bank details in Section 4 below)  
-- Digital signatures accepted  
+- Digital signatures accepted
+- [Note that other documents are still under development due to our corporation alterations]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,8 +101,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 ### 3. VAT Registration Guide  
 *Currently under revision - will be shared when updated*  
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 ## 🏦 Payment Instructions  
 **For deposits/balances**:  
 --------
@@ -100,8 +129,23 @@ https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/template
 > - Right-click → "Save Link As" (Chrome/Firefox)
 > - Long-press → "Download" (Mobile)
 
+---
+## 💳 Payment Instructions  
+**Bank Details for Electronic Transfers:**
 
-# Cicada 3301 Corporations - Client Services
+Bank: First National Bank (FNB)  
+Account Type: Gold Business Account  
+Account Name: Siboza Mpange and Cicada 3301 (Pty) Ltd  
+Account Number: 63166718826  
+Branch Code: 210651 (Greenpoint Branch)  
+SWIFT Code: FIRNZAJJ  
+Reference: [Client ID] + Invoice Number  
+
+**Payment Process:**  
+1. Complete and sign service agreement  
+2. Pay 50% deposit to above account  
+3. Email proof of payment to cicada3301legal@proton.me
+4. We confirm receipt within 24 hours  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2. Service Disclaimer
@@ -144,33 +188,19 @@ and that I will seek independent legal counsel where required.
 [Date]  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 💳 Payment Instructions  
-**Bank Details for Electronic Transfers:**
 
-Bank: First National Bank (FNB)  
-Account Type: Gold Business Account  
-Account Name: Siboza Mpange and Cicada 3301 (Pty) Ltd  
-Account Number: 63166718826  
-Branch Code: 210651 (Greenpoint Branch)  
-SWIFT Code: FIRNZAJJ  
-Reference: [Client ID] + Invoice Number  
-
-**Payment Process:**  
-1. Complete and sign service agreement  
-2. Pay 50% deposit to above account  
-3. Email proof of payment to cicada3301legal@proton.me
-4. We confirm receipt within 24 hours  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✍️ Agreement Template Preview  
 *(Key sections shown below - full document available for download)*
 
-### 1. Parties  
+### 1. Parties
+
 **Service Provider:**  
 Siboza Mpange and Cicada 3301 (Pty) Ltd T/A Cicada 3301 Corporations  
-1 Beach Road, Waterfront, Cape Town, 8001  
-VAT No: [Your VAT Number]  
+Waterfront Watershed 17 Dock Road Victoria and Alfred, Cape Town, Western Cape, 8001
+VAT No: [Our VAT Number_[Office Use Only]]  
 
 **Client:**  
 Full Name: _____________________________  
@@ -210,12 +240,6 @@ Contact our legal team:
 📧 *Always email POP to*: cicada3301legal@proton.me  
 
 ---
-
-## ❓ Need Help?  
-Contact our team:  
-📞 +27 68 131 1096  
-📧 cicada3301corp@proton.me  
-*Response within 24 business hours*  
 
 > *"Clear agreements build strong partnerships."*  
 > **– Kanny Siboza, Director**
@@ -294,3 +318,28 @@ Justice as Weapon
 
 "עַם זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ"
 "The people I formed for Myself will declare My praise." — Isaiah 43:21
+
+
+
+## ⚖️ Legal Compliance Framework
+```diff
++ Smart Partnerships: Collaborate with licensed attorneys for regulated work
++ Clear Disclaimers: All services labeled as "consulting" not legal representation
+- Restrictions: No litigation, court appearances, or binding legal opinions
+
+-----
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
