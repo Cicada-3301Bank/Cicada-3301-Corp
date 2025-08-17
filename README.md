@@ -5,7 +5,7 @@
 
 ## About Us
 Cicada 3301 Corporations (T/A) is a South African registered enterprise (Enterprise No: 2025/076455/07) operating at the intersection of 
-**Property Law, Real Estate Development, Offshore Wealth Structuring, and Cybersecurity**.
+**Property Law, Real Estate Development, Offshore Wealth Structuring, Risk Intelligence & Analytics and Cybersecurity**.
 
 
 ## 📌 Business Overview
