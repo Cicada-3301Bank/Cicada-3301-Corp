@@ -1,17 +1,19 @@
 # CICADA 3301 CORPORATIONS
 *"We protect your property, your wealth, and your identity — in the real world and online."*  
 *"Building Legal Sanctuaries, Securing Wealth, Protecting Data"*
+(Enhanced with Global Financial Secrecy Insights)
 
 ## About Us
 Cicada 3301 Corporations (T/A) is a South African registered enterprise (Enterprise No: 2025/076455/07) operating at the intersection of 
 **Property Law, Real Estate Development, Offshore Wealth Structuring, and Cybersecurity**.
 
+
 ## 📌 Business Overview
 **Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd 
 **Enterprise Number:** 2025 / 076455 / 07
 **Trade Name:** Cicada 3301 Corporations  
-**Specialization:** Hybrid legal-tech consultancy in property law and urban development, combining legal strategy, 
-asset protection, and technology to serve high-net-worth individuals and global investors.
+**Specialization:** Hybrid legal-tech consultancy in property law and urban development, combining legal strategy,  
+asset protection, advanced risk analytics and technology to serve high-net-worth individuals and global investors who demand both privacy and precision.
 
 Founded by **Dr. Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)(also known as Kanny Siboza aka Mercurius Zeus)**
 
