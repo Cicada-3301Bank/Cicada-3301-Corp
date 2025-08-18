@@ -73,7 +73,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 # Cicada 3301 Corporations - Client Services On Property Law 
 
 ### 1. Client Service Agreement Template  
-**Purpose**: Outlines terms for property law and real estate development services.  
+**Purpose**: Outlines terms for property law, real estate development services, and offshore shell corporations  
 
 ✅ **Your Next Steps**:  
 - [Download the Agreement](/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf)
@@ -136,7 +136,6 @@ Reference: [Client ID] + Invoice Number
 4. We confirm receipt within 24 hours  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 2. Service Disclaimer
 
 ### ⚖️ Advisory Nature of Services
 **Cicada 3301 Corporations (Pty) Ltd** provides *consultation services only*. By engaging our services, you acknowledge:
