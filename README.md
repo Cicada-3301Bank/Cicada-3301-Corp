@@ -168,9 +168,9 @@ metadata:
 | Document | Purpose | Action Required |
 |----------|---------|-----------------|
 | [Client Agreement PDF](/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf) | Service terms | Download → Sign → Email |
-| [Service Disclaimer](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/docs/service_disclaimer.md) | Advisory boundaries | Review |
-| [Client Acknowledgment](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/docs/legal/client_acknowledgment.md) | Confirm advisory relationship | Read → Email Confirmation |
-| [Business CV](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/Dr.%20S.%20Kanny%20Siboza%20Business%20CV.pdf) | Director credentials | Reference |
+| [Service Disclaimer](/docs/service_disclaimer.md) | Advisory boundaries | Review |
+| [Client Acknowledgment](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/blob/main/docs/legal/client_acknowledgment.md)| Confirm advisory relationship | Read → Email Confirmation |
+| [Business CV](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/blob/main/Dr.%20S.%20Kanny%20Siboza%20Business%20CV) | Director credentials | Reference |
 |
 ## 🌐 Digital Office Overview
 **Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd  
