@@ -8,8 +8,7 @@ I, **[Client Name]**, hereby confirm that:
    - Court proceedings  
    - Contract enforcement  
    - Regulatory compliance  
-3. I accept the terms in the [Client Service Agreement](/templates/Cicada_3301_Corp_Client_Service_Agreement.pdf)
-
+3. I accept the terms in the [Client Service Agreement](/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf)
 **Signature:** _________________________  
 **Date:** ____/____/2025  
 
@@ -35,7 +34,7 @@ Email: ___________________________
 | Property Law Consultation | R1,200/hour |
 | Contract Drafting | R2,500/document |
 
-[View Full Agreement](/templates/Cicada_3301_Corp_Client_Service_Agreement.pdf)
+[View Full Agreement](/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf)
 
 ---
 
