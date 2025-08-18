@@ -163,6 +163,12 @@ metadata:
 │ └── 🖼️logo.png
 └── 📄README.md
 
+----
+testing 
+
+xxxx| [Client Agreement PDF](/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf) | xxxx
+-----
+
 ## 🌐 Digital Office Overview
 **Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd  
 **Registration:** 2025/076455/07 (South Africa)  
