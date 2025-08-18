@@ -176,17 +176,13 @@ metadata:
 
 | Document | Purpose | Action Required |
 |----------|---------|-----------------|
-| [Client Agreement PDF](/templates/Cicada_3301_Corp_Client_Service_Agreement.pdf) | Service terms | Download → Sign → Email |
-| [Service Disclaimer](/docs/service_disclaimer.md) | Advisory boundaries | Review |
-| [Client Acknowledgment](/docs/legal/client_acknowledgment.md) | Confirm advisory relationship | Read → Email Confirmation |
+| [Client Agreement PDF](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf) | Service terms | Download → Sign → Email |
+| [Service Disclaimer](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/docs/service_disclaimer.md) | Advisory boundaries | Review |
+| [Client Acknowledgment](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/docs/legal/client_acknowledgment.md) | Confirm advisory relationship | Read → Email Confirmation |
 | [Business CV](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/Dr.%20S.%20Kanny%20Siboza%20Business%20CV.pdf) | Director credentials | Reference |
-|
-
 
 ## ✍️ Client Agreement
 agreement:
-  download: "https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf"
-  
   preview:
     parties:
       provider: |
