@@ -76,8 +76,8 @@ Below are the essential documents for our partnership. **Please follow the instr
 **Purpose**: Outlines terms for property law and real estate development services.  
 
 ✅ **Your Next Steps**:  
-- [Download the Agreement](/templates/client_service_agreement.docx)  
-- Fill in **yellow highlighted fields** (Client Name, Address, Service Selection)  
+- [Download the Agreement](/templates/Cicada 3301 Corp Client Service Agreement.pdf) 
+- Fill in **required fields** (Client Name, Address, Service Selection)  
 - Email the signed copy to [cicada3301legal@proton.me](mailto:cicada3301legal@proton.me)  
 
 📌 *Note*:  
