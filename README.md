@@ -84,7 +84,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 📌 *Note*:  
 - 50% deposit required before work begins (bank details in Section 4 below)  
 - Digital signatures accepted
-- [Note that other documents are still under development due to our corporation alterations]
+- [Note that other documents are available via request]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -108,29 +108,14 @@ Below are the essential documents for our partnership. **Please follow the instr
 ## 🏦 Payment Instructions  
 **For deposits/balances**:  
 --------
-## 📄 How to Download Your Agreement
-
-### Option 1: Automated Download
-[Try Automatic Download](https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/templates/Cicada_Client_Service_Agreement_Template.docx)  
-*(If nothing happens, use Option 2 below)*
-
-### Option 2: Manual Copy-Paste
-1. **Copy this URL**:
-https://raw.githubusercontent.com/Cicada-3301Bank/Cicada-3301-Corp/main/templates/Cicada_Client_Service_Agreement_Template.docx
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2. **Paste it into your browser's address bar**
-3. **Press Enter** - the document should download
+
 
 ### Need Help? Contact Support:
 📞 **Phone**: +27 68 131 1096  
 📧 **Email**: [cicada3301legal@proton.me](mailto:cicada3301legal@proton.me)  
 *(Available Mon-Fri, 9AM-5PM CAT)*
-
-> **Tip**: If the document won't open, try:
-> - Using Microsoft Word or [LibreOffice](https://www.libreoffice.org/)
-> - Right-click → "Save Link As" (Chrome/Firefox)
-> - Long-press → "Download" (Mobile)
 
 ---
 ## 💳 Payment Instructions  
