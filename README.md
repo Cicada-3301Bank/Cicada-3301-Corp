@@ -8,7 +8,6 @@
 Cicada 3301 Corporations (T/A) is a South African registered enterprise (Enterprise No: 2025/076455/07) operating at the intersection of 
 **Property Law, Real Estate Development, Offshore Wealth Structuring, Risk Intelligence & Analytics and Cybersecurity**.
 
-
 ## 📌 Business Overview
 **Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd 
 **Enterprise Number:** 2025 / 076455 / 07
@@ -30,7 +29,6 @@ Our firm delivers discreet, high-impact services for high-net-worth clients, inc
 
 We operate virtually and globally, ensuring your portfolio and personal data remain secure — whether your assets are in **Cape Town, Dubai, or offshore trusts in Seychelles**.
 
-
 ## 🏛 Core Services
 
 | Service Area                | Description                                                                 | Compliance Note                          |
@@ -42,8 +40,6 @@ We operate virtually and globally, ensuring your portfolio and personal data rem
 | **Offshore Wealth Structuring** | Setup of trusts, shell corporations, and title anonymization            | Requires client compliance attestation   |
 | **Cybersecurity for Property** | Secure portals, blockchain-based title verification, encrypted document exchange | CyberShield Add-On option        |
 
----
-
 ## Membership Tiers
 
 | Tier | Annual Fee | Features |
@@ -53,23 +49,17 @@ We operate virtually and globally, ensuring your portfolio and personal data rem
 | **Platinum** | R90,000 | AI-driven tax strategies, blockchain title verification |
 | **CyberShield Add-On** | R25,000 | Secure portal, encrypted document exchange |
 
----
-
 ## Contact
 
 📞 **+27 68 131 1096**  
 📧 **cicada3301legal@proton.me** | **cicada3301corp@proton.me**  
 🌍 **Cape Town, South Africa | 📍 *Waterfront Watershed 17 Dock Road Victoria and Alfred, Cape Town, Western Cape, 8001* **  
 
----
-
 # 📑 Cicada 3301 Corporations - Key Documents
 
 ## For Your Review and Action
 
 Below are the essential documents for our partnership. **Please follow the instructions for each**:
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Cicada 3301 Corporations - Client Services On Property Law 
 
@@ -87,7 +77,6 @@ Below are the essential documents for our partnership. **Please follow the instr
 - Digital signatures accepted
 - [Note that other documents are available via request]
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Service Disclaimer  
 **Purpose**: Explains the advisory nature of our services.  
@@ -109,9 +98,6 @@ Below are the essential documents for our partnership. **Please follow the instr
 ## 🏦 Payment Instructions  
 **For deposits/balances**:  
 --------
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ### Need Help? Contact Support:
 📞 **Phone**: +27 68 131 1096  
@@ -136,198 +122,164 @@ Reference: [Client ID] + Invoice Number
 3. Email proof of payment to cicada3301legal@proton.me
 4. We confirm receipt within 24 hours  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### ⚖️ Advisory Nature of Services
 **Cicada 3301 Corporations (Pty) Ltd** provides *consultation services only*. By engaging our services, you acknowledge:
 
+# Cicada 3301 Corporations (Pty) Ltd
+## Legal Services Framework
+
+metadata:
+  enterprise_no: "2025/076455/07"
+  jurisdiction: "South Africa and International ByLaws"
+  last_updated: "2025-08-18"
+  director: "Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)"
+  physical_address: |
+    Waterfront Watershed
+    17 Dock Road, Victoria & Alfred
+    Cape Town, Western Cape 8001
+  contact:
+    phone: "+27 68 131 1096"
+    email: "cicada3301legal@proton.me"
+    Response within 48 hours
+    pgp: "[PGP Fingerprint]"
+
+# CICADA 3301 CORPORATIONS (PTY) LTD
+
+*"Building Legal Sanctuaries, Securing Wealth, Protecting Data"*  
+*(Enhanced with Global Financial Secrecy Insights)*
+---
+## 📂 Repository Structure
+
+📦Cicada-3301-Corp
+├── 📂docs
+│ └── 📄service_disclaimer.md
+├── 📂templates
+│ ├── 📄Cicada_3301_Corp_Client_Service_Agreement.pdf
+│ ├── 📄Cicada_Client_Agreement.docx
+│ └── 📜VAT_Registration_Guide.pdf (pending update)
+├── 📂assets
+│ ├── 📜Dr_S_Kanny_Siboza_Business_CV.pdf
+│ ├── 🖼️Cicada_3301_Corp_Logo.png
+│ └── 🖼️logo.png
+└── 📄README.md
+
+## 🌐 Digital Office Overview
+**Legal Name:** Siboza Mpange and Cicada 3301 (Pty) Ltd  
+**Registration:** 2025/076455/07 (South Africa)  
+**Specializations:**  
 ```diff
-+ What We Provide:
-- Legal document templates and drafting guidance
-- Property law strategy consultation
-- Real estate development planning
++ Property Law & Real Estate Development
++ Offshore Wealth Structuring
++ Cybersecurity for Asset Protection
 
-- What We Don't Provide:
-+ Court representation or litigation services
-+ Legally binding opinions
-+ Attorney-client privileged advice
-```-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🔍 Core Documents Quick Access
 
-📜 Key Limitations  
-Not a Law Firm:  
-Our services do not constitute legal representation.
-
-Supplemental Advice Required:  
-Clients must obtain independent legal counsel for:
-- Court proceedings  
-- Contract enforcement  
-- Regulatory compliance  
-
-No Liability:  
-We are not responsible for outcomes resulting from client implementation of our advice.
-
-📩 Confirmation of Understanding  
-Clients must email the following to cicada3301legal@proton.me:  
-
-I confirm that I understand Cicada 3301 Corporations provides advisory services only,  
-and that I will seek independent legal counsel where required.  
-
-[Client Name]  
-[Date]  
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Document | Purpose | Action Required |
+|----------|---------|-----------------|
+| [Client Agreement PDF](/templates/Cicada_3301_Corp_Client_Service_Agreement.pdf) | Service terms | Download → Sign → Email |
+| [Service Disclaimer](/docs/service_disclaimer.md) | Advisory boundaries | Review |
+| [Client Acknowledgment](/docs/legal/client_acknowledgment.md) | Confirm advisory relationship | Read → Email Confirmation |
+| [Business CV](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/Dr.%20S.%20Kanny%20Siboza%20Business%20CV.pdf) | Director credentials | Reference |
+|
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ✍️ Client Agreement
+agreement:
+  download: "https://github.com/Cicada-3301Bank/Cicada-3301-Corp/raw/main/templates/Cicada%203301%20Corp%20Client%20Service%20Agreement.pdf"
+  
+  preview:
+    parties:
+      provider: |
+        Siboza Mpange and Cicada 3301 (Pty) Ltd
+        T/A Cicada 3301 Corporations
+        VAT No: [Office Use Only]
+      client:
+        - "Full Name: ___________________________"
+        - "Address: _____________________________"
+        - "Email: _______________________________"
+        - "Phone: _______________________________"
 
-## ✍️ Agreement Template Preview  
-*(Key sections shown below - full document available for download)*
+    services:
+      - service: "Property Law Consultation"
+        description: "Lease reviews, title analysis"
+        fee: "R1,200/hour"
+      - service: "Contract Drafting"
+        description: "Rental/NDA agreements"
+        fee: "R2,500/document"
+      - service: "Offshore Structuring"
+        description: "Trusts, shell companies"
+        fee: "Custom quote"
 
-### 1. Parties
+    signatures:
+      client: "Client Signature: _________________________ Date: d/mm/yyyy"
+      director: "For Cicada 3301 Corporations: Dr. S. Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה(Mordechai Azariah)
+      (Director) Date: d/mm/yyyy"
 
-**Service Provider:**  
-Siboza Mpange and Cicada 3301 (Pty) Ltd T/A Cicada 3301 Corporations  
-Waterfront Watershed 17 Dock Road Victoria and Alfred, Cape Town, Western Cape, 8001
-VAT No: [Our VAT Number_[Office Use Only]]  
 
-**Client:**  
-Full Name: _____________________________  
-Physical Address: _______________________  
-_______________________  
-Postal Code: _______  
-Email: ________________________________  
-Phone: ________________________________  
+## 📜 Corporate Biography
+biography:
+  name: "Dr. Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה(Mordechai Azariah)"
+  title: |
+    Property Law Consultant | Real Estate Developer | Offshore Trusts Advisor | Cybersecurity &
+    Data Protection Specialist | Wealth Structuring for High-Net-Worth Clients
+    Director, Cicada 3301 Corporations (Pty) Ltd
+    Founder, AfriHebrew Resistance
 
-### 2. Services & Fees  
-| Service | Description | Fee |
-|---------|-------------|-----|
-| Property Law Consultation | Lease reviews, title analysis | R1,200/hour |
-| Contract Drafting | Rental/NDA agreements | R2,500/document |
-| *[View full table in template]* | | |
+  background:
+    born: "1986, Matsulu B Barberton, Mpumalanga province"
+    education:
+      - "Matsulu B upbringing"
+      - "Sukumani Primary & Tikhontele Secondary (Deputy President 2002)"
+      - "Youth Parliament delegate under Hon. Naledi Pandor (2002)"
 
-### 3. Signatures  
-**Client Signature:**  
-_________________________  
-Date: _____/_____/2025  
+  spiritual:
+    - "Founded AfriHebrew Resistance after synagogue rejections"
+    - "20+ years Torah activism for Black Zion consciousness"
 
-**For Cicada 3301 Corporations:**  
-_________________________  
-Dr. Kanny Siboza, Director  
-Date: _____/_____/2025  
+  political:
+    affiliation: "Democratic Alliance Member (Ward 115)"
+    focus: "Property justice, ethical governance"
 
-*Note: This template requires Microsoft Word or compatible software.*
+  experience:
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    - role: "Founder"
+      org: "Cicada 3301 Corporations"
+      details: "Property law consultancy, real estate development,
+                Offshore Trusts Advisor, Cybersecurity & Data Protection Specialist,
+                and Wealth Structuring for High-Net-Worth Clients"
 
-## ℹ️ Need Help?  
-Contact our legal team:  
-📞 +27 68 131 1096  
-📧 cicada3301legal@proton.me  
-*Response within 48 hours*  
+    - role: "Financial Advisor"
+      org: "Liberty Holdings Group"
+      details: "Client portfolio management"
 
-📧 *Always email POP to*: cicada3301legal@proton.me  
+    - role: "Project Manager"
+      org: "Direkane Construction"
+      details: "Civil engineering projects"
+
+  ventures:
+    current:
+      - "Cicada 3301 Corporations - property law services"
+      - "Hydrogen Aerospace R&D - propulsion systems"
+      - "AfriHebrew Resistance - Pan-African Torah revival"
+    past:
+      - "AI cybersecurity (Algorithm Codex)"
+      - "Record label (learning venture)"
 
 ---
 
-> *"Clear agreements build strong partnerships."*  
-> **– Kanny Siboza, Director**
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ⚖️ Compliance Framework
+compliance:
+  partnerships: "Smart partnerships with licensed attorneys"
+  disclaimers: "All services are consulting only"
+  restrictions: |
+    - No litigation services
+    - No binding legal opinions
+    - No tax evasion facilitation
 
-# Biography and Project History of Dr. Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)
-
-**Property Law Consultant | Real Estate Developer | Legal Office Administrator**  
-**Founder, AfriHebrew Resistance | Democratic Alliance Member (Ward 115)**  
-**Cicada 3301 Corporations (Pty) Ltd (T/A)**  
-
+  quote: |
+    "Clear agreements build strong partnerships."
+    - Dr. Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah), Director
 ---
-
-## 📜 Biography
-
-```diff
-+ Born 1986 in Barberton, Mpumalanga to Mozambican parents
-+ Matsulu B upbringing | Sukumani Primary & Tikhontele Secondary (Deputy President 2002)
-+ Youth Parliament delegate under Hon. Naledi Pandor (2002)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Spiritual Journey
-
-"The Lion of Judah's Awakener"
-
-Founded AfriHebrew Resistance after synagogue rejections in Cape Town
-
-Revelation at Bloubergstrand (Exodus 3:2, Zechariah 2:11)
-
-20+ years Torah activism for Black Zion consciousness
-
-Political Engagement
-
-Democratic Alliance Member (Ward 115)
-
-Focus: Property justice, ethical governance, sustainable urban development
-
-💼 Work Experience
-Role	Organization	Key Contributions
-Founder	Cicada 3301 Corporations	Property law consultancy & real estate development
-Financial Advisor	Liberty Holdings Group	Client portfolio management
-Project Manager	Direkane Construction	Civil engineering projects (pre-liquidation)
-Technician	Bosch	Mechanical engineering systems
-Fuel Logistics	Shell Petroleum	Mobile distribution networks
-Entrepreneurial Ventures
-⚠️ Learning experiences from failed startups in:
-
-AI cybersecurity (Algorithm Codex)
-
-Record label
-
-Software security
-
-🚀 Current Projects
-Cicada 3301 Corporations
-
-Property law consultancy (Pty Ltd registered)
-
-Real estate development strategies
-
-Hydrogen Aerospace R&D
-
-Next-gen propulsion systems (Early stage)
-
-AfriHebrew Resistance
-
-Pan-African Torah revival movement
-
-🧠 Philosophy
-
-Africa is Zion
-
-Torah as Constitution
-
-Justice as Weapon
-
-"עַם זוּ יָצַרְתִּי לִי תְּהִלָּתִי יְסַפֵּרוּ"
-"The people I formed for Myself will declare My praise." — Isaiah 43:21
-
-
-
-## ⚖️ Legal Compliance Framework
-```diff
-+ Smart Partnerships: Collaborate with licensed attorneys for regulated work
-+ Clear Disclaimers: All services labeled as "consulting" not legal representation
-- Restrictions: No litigation, court appearances, or binding legal opinions
-
------
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 
