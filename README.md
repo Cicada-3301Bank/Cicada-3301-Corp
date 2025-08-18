@@ -70,7 +70,7 @@ Below are the essential documents for our partnership. **Please follow the instr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Cicada 3301 Corporations - Client Services On Property Law [Note that other services such as offshore corporations services is still in progress!]
+# Cicada 3301 Corporations - Client Services On Property Law 
 
 ### 1. Client Service Agreement Template  
 **Purpose**: Outlines terms for property law and real estate development services.  
