@@ -152,10 +152,16 @@ metadata:
 
 📦Cicada-3301-Corp
 ├── 📂docs
-│ └── 📄service_disclaimer.md
+├── 📂legal
+  └── 📄client_acknowledgment.md
+  └── 📄security.md
+  └── 📄service_disclaimer.md
+│ 
 ├── 📂templates
 │ ├── 📄Cicada_3301_Corp_Client_Service_Agreement.pdf
 │ ├── 📄Cicada_Client_Agreement.docx
+├── 📂web
+|└──  📄platforms.md
 │ └── 📜VAT_Registration_Guide.pdf (pending update)
 ├── 📂assets
 │ ├── 📜Dr_S_Kanny_Siboza_Business_CV.pdf
