@@ -2,7 +2,7 @@
 **Dr. Sibusiso Kanny Siboza / (מָרְדֳּכַי עֲזַרְיָה / Mordechai Azariah)** 
 Founder & Director | Cicada 3301 Corporations (Pty) Ltd  
 📍 Cape Town, South Africa | 📞 +27 68 131 1096  
-📧 cicada3301legal@proton.me | 🌍 Cicada 3301 Corporations  
+📧 cicada3301legal@proton.me | [🌍 Cicada 3301 Corporations](https://github.com/Cicada-3301Bank/Cicada-3301-Corp)
 ---
 ## 🏛 Professional Profile  
 **Property Law Consultant | Real Estate Developer | Offshore Wealth Strategist | Cybersecurity Specialist**  
