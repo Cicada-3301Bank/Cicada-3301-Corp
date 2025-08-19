@@ -52,8 +52,10 @@ test
 
 | Platform | Documentation |
 |----------|---------------|
-| [Hydrogen Green Energy R&D](/web/platforms.md#hydrogen-rd) | [🌍 Live Portal](https://hydrogen-ai-engen-jet-man-corp.unicornplatform.page) |
+| [Hydrogen Green Energy R&D](/web/platforms.md#hydrogen-rd) | [LivePortal](https://hydrogen-ai-engen-jet-man-corp.unicornplatform.home) |
 | [Scybozer AI Law](/web/platforms.md#scybozer-ai) | [⚖️ Platform Access](https://sites.google.com/view/scybozerailaw) | 
+
+[🌍visit](https://github.com/Cicada-3301Bank/Cicada-3301-Corp/blob/main/web/platforms.md)
 ---
 ### Financial Advisor & Consultant  
 **Liberty Group Limited | Circufin Group** | 2018–2019  
