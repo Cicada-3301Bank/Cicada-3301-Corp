@@ -12,7 +12,7 @@
 ### Hydrogen R&D {#hydrogen-rd}
 - **Purpose**: Green energy solutions
 - **Status**: ![Active](https://img.shields.io/badge/Status-Live-brightgreen)
-- **Access**: [Portal](https://hydrogen-ai-engen-jet-man-corp.unicornplatform.page)
+- **Access**: [Portal](https://hydrogen-ai-engen-jet-man-corp.unicornplatform.page/green_energy/)
 
 ### Scybozer AI Law {#scybozer-ai-law}
 - **Purpose**: Automated legal analysis
