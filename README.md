@@ -18,7 +18,7 @@ asset protection, advanced risk analytics and technology to serve high-net-worth
 Founded by **Dr. Sibusiso Kanny Siboza / מָרְדֳּכַי עֲזַרְיָה (Mordechai Azariah)(also known as Kanny Siboza aka Mercurius Zeus)**
 
 Dr Kanny Siboza is a specialist on: 
-Property Law Consultant | Real Estate Developer | Offshore Trusts Advisor | Cybersecurity & Data Protection Specialist | Wealth Structuring for High-Net-Worth Clients | Economist & Capitalist | Data Analyst
+Property Law Consultant | Real Estate Developer | Offshore Trusts Advisor | Cybersecurity & Data Protection Specialist | Wealth Structuring for High-Net-Worth Clients | Economist & Capitalist | Data Analyst | Software Engineer | Computer Programmer | Bot developer
 
 Our firm delivers discreet, high-impact services for high-net-worth clients, including:
 
